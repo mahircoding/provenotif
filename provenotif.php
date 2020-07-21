@@ -3,7 +3,7 @@
  * Plugin Name: ProveNotif
  * Plugin URI: https://provenotif.com/
  * Description: Plugin untuk Landing Page Elementor, membantu meningkatkan konversi penjualan melalui social proof.
- * Version: 0.1
+ * Version: 1.0.0
  * Author: ProveNotif
  * Author URI: https://provenotif.com/
  *
@@ -22,7 +22,7 @@ if ( !defined( 'PROVENOTIF_WEB' ) )
 if ( !defined( 'PROVENOTIF_URL' ) ) 
     { define( 'PROVENOTIF_URL', plugins_url( '', __FILE__ ) ); }
 if ( !defined( 'PROVENOTIF_VERSION' ) ) 
-    { define( 'PROVENOTIF_VERSION', '0.1' ); }
+    { define( 'PROVENOTIF_VERSION', '1.0.0' ); }
 if ( !defined( 'PROVENOTIF_PLUGIN' ) ) 
     { define( 'PROVENOTIF_PLUGIN', true ); }
 define( 'PROVENOTIF_VERSION_REQUIRED', '1.7' );
